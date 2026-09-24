@@ -1,1 +1,2 @@
-alu-shell project
+# alu-shell
+ALU shell project
