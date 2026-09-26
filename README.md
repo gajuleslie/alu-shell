@@ -1,1 +1,1 @@
-# ALU Shell Scripting Project
+# alu-shell
