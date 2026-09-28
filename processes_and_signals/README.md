@@ -9,3 +9,4 @@ Bash scripts from the ALU shell project on processes and signals.
 - `2-show_your_bash_pid`: displays the lines of the process list containing bash.
 - `3-show_your_bash_pid_made_easy`: displays the PID and name of processes containing bash.
 - `4-to_infinity_and_beyond`: displays "To infinity and beyond" indefinitely, with a 2 second pause.
+- `5-dont_stop_me_now`: stops the 4-to_infinity_and_beyond process using kill.
